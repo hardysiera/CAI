@@ -1,0 +1,7 @@
+numpy
+PyPDF2
+nltk
+streamlit
+sentence-transformers
+rank-bm25
+torch
